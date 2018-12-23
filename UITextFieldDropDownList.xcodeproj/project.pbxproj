@@ -56,10 +56,10 @@
 		111F2CE11D5615F00020442C /* UITextFieldDropDownList */ = {
 			isa = PBXGroup;
 			children = (
-				111F2CE21D5615F00020442C /* AppDelegate.swift */,
 				111F2CE41D5615F00020442C /* ViewController.swift */,
 				111F2CE61D5615F00020442C /* Main.storyboard */,
 				111F2CE91D5615F00020442C /* Assets.xcassets */,
+				111F2CE21D5615F00020442C /* AppDelegate.swift */,
 				111F2CEB1D5615F00020442C /* LaunchScreen.storyboard */,
 				111F2CEE1D5615F00020442C /* Info.plist */,
 				111F2CF41D5635830020442C /* NoCopyPasteUITextField.swift */,
